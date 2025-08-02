@@ -1,4 +1,4 @@
-# docker-testapp
+# docker-nodeapp
 
  🐳 Dockerized Node.js + MongoDB App
 Built a full-stack app using Node.js, Express, and MongoDB.
